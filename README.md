@@ -1,3 +1,8 @@
 # Startup-Data-Analysis
-This is a data analysis project where I used Python, Pandas, Numpy and Matplotlib to analyse a dataset and provide answers to various questions.
-The dataset used, explanation for each question as well as the entire code (jupyter notebook) has been uploaded.
+The dataset used, complete explanation for each question (explanations.pdf), as well as the python code used to solve each question (jupyter notebook) is provided.
+
+# Tools used in this project:
+1. Python (Programming Language)
+2. Pandas
+3. NumPy
+4. Matplotlib
